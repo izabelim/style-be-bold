@@ -1,0 +1,15 @@
+body{
+    background-image: url('../img24/backuni2.jfif');
+}
+h1{
+    color:rgb(8, 4, 4);
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    margin: 10px auto 0px auto;
+    text-align: center;
+    font-size: 70px;
+    background-color:  rgb(250, 173, 183);
+}

@@ -1,0 +1,123 @@
+body{
+    width:1200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("img24/img1.png");
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('../img24/imgback.webp');
+    padding: 10px 10px;
+}
+h1{
+    color:deeppink;
+    padding: 40px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+    margin: 10px auto 0px auto;
+    text-align: center;
+    font-size: 70px;
+    background-color:  rgb(250, 192, 222);
+ }
+ h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ header{
+
+    position:webkit-sticky;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.menu-h{
+    background-color: rgb(233, 133, 163);
+    padding: 1px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+.menu-h ul li {
+    display: inline;
+}
+.menu-h ul li a {
+    color: rgb(3, 3, 3);
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+.menu-h ul li a:hover {
+    background-color: rgb(233, 24, 153);
+}
+.menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(238, 84, 169);
+}
+ li{
+    display: inline;
+    margin-right: 10px;
+}
+article{
+    border-color: bisque;
+    border: 1px solid rgb(245, 145, 203);
+    margin-bottom: 20px;
+    padding: 10px;
+}
+article img {
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10 px 10px 0 0;
+    padding: 2px;
+    width: 200px;
+}
+p.one{
+    border-width: 2px;
+    border-style: solid;
+    border-color:rgb(245, 145, 203);
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    float: right;
+    width: 60%
+}
+p.two{
+    border-width: 2px;
+    border-style: solid;
+    border-color:rgb(245, 145, 203);
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    float: right;
+    width: 60%
+}
+p.three{
+    border-width: 2px;
+    border-style: solid;
+    border-color:rgb(245, 145, 203);
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    float: right;
+    width: 60%
+}
+ul{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 10px auto 0px auto;
+}
+footer{
+    text-align: center;
+    border: 1px;
+    background-color: rgb(245, 145, 203);
+    font-family: 'Times New Roman', Times, serif ;
+    padding: 4px;
+}
+
+
+
